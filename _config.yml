@@ -1,0 +1,57 @@
+# Site
+repository: gauchm/gauchm.github.io
+#favicon: images/favicon.ico
+
+# Personal info
+name: Martin Gauch
+title: Master's student, University of Waterloo, Ontario, Canada
+email: mgauch@uwaterloo.ca
+# website: gauchm.github.io
+
+# Social links
+# twitter_username: 
+github_username:  gauchm
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username: 
+# linkedin_username: 
+# pinterest_username:
+# youtube_username: 
+# googleplus_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Martin. I'm a Master's student in computer science at the University of Waterloo.
+  
+  My research is on machine learning techniques for streamflow prediction.
+  I'm affiliated with the [Global Water Futures](https://gwf.usask.ca/) program.
+  My supervisor is [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
+
+# Projects Section
+projects_title: Publications
+
+# Experience Section
+experience_title: Work Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+#more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

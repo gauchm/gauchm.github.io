@@ -1,0 +1,26 @@
+- layout: left
+  name: University of Waterloo
+  dates: September 2018 &ndash; present
+  qualification: Computer Science <br/> (Master's student)
+  # quote: 
+  description: | # this will include new lines to allow paragraphs
+    Supervised by Jimmy Lin, my research is on machine learning for streamflow prediction. \\
+    I apply neural and non-neural machine-learning algorithms to spatio-temporal data.
+
+- layout: left
+  name: Karlsruhe Institute of Technology
+  dates: September 2017 &ndash; August 2018
+  qualification: Computer Science <br/> (Master's student)
+  # quote:
+  description: | # this will include new lines to allow paragraphs
+    After going on an exchange term to the University of Waterloo, I stopped my graduate studies in Karlsruhe and continued pursuing my Master's degree in Waterloo. \\
+    Average grade: 1.1 (in the [German grading scheme](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education))
+    
+- layout: left
+  name: #Karlsruhe Institute of Technology
+  dates: October 2014 &ndash; September 2017
+  qualification: Computer Science <br/> (Bachelor's student)
+  # quote: 
+  description: | # this will include new lines to allow paragraphs
+    Bachelor's thesis: **Data-Driven Approaches to Predict Material Failure and Analyze Material Models** \\
+    Final grade: 1.3 (in the [German grading scheme](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education))

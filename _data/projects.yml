@@ -1,0 +1,22 @@
+- layout: left
+  name: 2019
+  #link: 
+  #github: sproogen/resume-theme
+  #quote:
+  description: | # this will include new lines to allow paragraphs
+    **Streamflow Prediction with Limited Spatially-Distributed Input Data** \\
+    Martin Gauch, Shervan Gharari, Juliane Mai, Jimmy Lin \\
+    _Proceedings of the NeurIPS 2019 Workshop on Climate Change_, December 2019, Paris, France
+    
+    **[Data-Driven vs. Physically-Based Streamflow Prediction Models](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_CI2019.pdf)** \\
+    Martin Gauch, Juliane Mai, Shervan Gharari, Jimmy Lin \\
+    _Proceedings of the 9th International Workshop on Climate Informatics_, October 2019, Paris, France
+- layout: left
+  name: 2018
+  #link: 
+  #github: sproogen/resume-theme
+  #quote:
+  description: | # this will include new lines to allow paragraphs
+    **[Towards Simulation-Data Science&mdash;A Case Study on Material Failures](https://ieeexplore.ieee.org/abstract/document/8631397)** \\
+    Holger Trittenbach, Martin Gauch, Klemens Böhm, Katrin Schulz \\
+    _2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)_, October 2018, Turin, Italy

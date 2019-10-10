@@ -1,0 +1,18 @@
+- layout: left
+  company: SAP SuccessFactors
+  link: successfactors.com
+  job_title: Working student, software engineering
+  dates: August 2014 &ndash; July 2018
+  #quote: 
+  description: | # this will include new lines to allow paragraphs
+    Developing SAP's SaaS HCM application
+    Software engineering in Java and JavaScript, as well as Data Analytics tasks working with Python, SQL, Splunk, ...
+- layout: left
+  company: SAP SE
+  link: sap.com
+  job_title: Working student, software engineering
+  dates: May 2014 &ndash; July 2014
+  #quote: 
+  description: | # this will include new lines to allow paragraphs
+    Developing SAP's ERP HCM application
+    Software engineering in ABAP
