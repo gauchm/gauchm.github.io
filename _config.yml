@@ -1,11 +1,12 @@
 # Site
-repository: gauchm/gauchm.github.io
+repository: gauchm/gauchm
 #favicon: images/favicon.ico
 
 # Personal info
 name: Martin Gauch
 title: Master's student, University of Waterloo, Ontario, Canada
 email: mgauch@uwaterloo.ca
+# phone: 
 # website: gauchm.github.io
 
 # Social links
@@ -24,10 +25,11 @@ github_username:  gauchm
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Martin. I'm a Master's student in computer science at the University of Waterloo.
+  Hi, I'm Martin. I'm a Master's student in computer science at the [University of Waterloo](https://uwaterloo.ca).
+  Before studying in Waterloo, I was an undergraduate and graduate computer science student at [Karlsruhe Institute of Technology](https://kit.edu) in Germany.
   
-  My research is on machine learning techniques for streamflow prediction.
-  I'm affiliated with the [Global Water Futures](https://gwf.usask.ca/) program.
+  My research is on machine learning in hydrology. In particular, we focus on developing data-driven techniques, both neural and non-neural, for streamflow prediction.
+  We work in collaboration with hydrologists in Canada's [Global Water Futures](https://gwf.usask.ca/) program.
   My supervisor is [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 
 # Projects Section
@@ -47,7 +49,7 @@ experience_title: Work Experience
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: gauchm/modern-resume-theme
 
 sass:
   sass_dir: _sass
@@ -55,3 +57,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

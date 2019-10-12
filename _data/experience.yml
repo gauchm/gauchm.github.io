@@ -5,8 +5,10 @@
   dates: August 2014 &ndash; July 2018
   #quote: 
   description: | # this will include new lines to allow paragraphs
-    Developing SAP's SaaS HCM application
-    Software engineering in Java and JavaScript, as well as Data Analytics tasks working with Python, SQL, Splunk, ...
+    In parallel to my studies in Karlsruhe, I worked part-time as a working student in the cloud HR software development at SAP SuccessFactors.
+    As part of the Rules Engine scrum team, I worked on designing and developing a rules framework that enables users to customize automatic business processes in their HR system.
+    My work involved Java programming as well as data analytics tasks, using Python, Jupyter notebooks, SQL, and Splunk.
+    
 - layout: left
   company: SAP SE
   link: sap.com
@@ -14,5 +16,6 @@
   dates: May 2014 &ndash; July 2014
   #quote: 
   description: | # this will include new lines to allow paragraphs
-    Developing SAP's ERP HCM application
-    Software engineering in ABAP
+    Between high school and university, I did a full-time internship in software development.
+    I designed, developed, and tested on-premise HR software for the SAP ERP solution.
+    My work mostly involved programming in ABAP. Also, I learned about SAP's ERP software and its customizing.

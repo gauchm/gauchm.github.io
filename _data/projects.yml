@@ -5,12 +5,24 @@
   #quote:
   description: | # this will include new lines to allow paragraphs
     **Streamflow Prediction with Limited Spatially-Distributed Input Data** \\
-    Martin Gauch, Shervan Gharari, Juliane Mai, Jimmy Lin \\
-    _Proceedings of the NeurIPS 2019 Workshop on Climate Change_, December 2019, Paris, France
+    Martin Gauch, Shervan Gharari, Juliane Mai, and Jimmy Lin. \\
+    _Proceedings of the NeurIPS 2019 Workshop on Tackling Climate Change with Machine Learning_, Vancouver, British Columbia, Canada.
+    
+    **[The Runoff Model-Intercomparison Project Over Lake Erie and the Great Lakes](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/538080)** \\
+    Juliane Mai, Bryan Tolson, Hongren Shen, Etienne Gaborit, Vincent Fortin, Milena Dimitrijevic, Nicolas Gasset, Dorothy Durnford, Young Lan Shin, Tricia Anne Stadnyk, Oyémonbadé Hervé Rodrigue Awoye, Lauren M. Fry, Emily A. Bradley, Tim Hunter, Andrew Gronewold, Joeseph Smith, Lacey Mason, Laura Read, Katelyn FitzGerald, Kevin Michael Sampson, Alan F. Hamlet, Frank Seglenieks, André Guy Tranquille Temgoua, Shervan Gharari, Saman Razavi, Amin Haghnegahdar, Mohamed Elshamy, Daniel G. Princz, Alain Pietroniro, Xiaojing Ni, Yongping Yuan, Mohammad Reza Najafi, Melika Rahimimovaghar, Martin Gauch, Jimmy Lin, and Raphael Tang. \\
+    _Abstracts of the 2019 AGU Fall Meeting_, December 2019, San Francisco, California.
+    
+    **[Machine Learning for Streamflow Prediction: Current Status and Future Prospects](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/516700)** \\
+    Martin Gauch, Raphael Tang, Juliane Mai, Bryan Tolson, Shervan Gharari, and Jimmy Lin. \\
+    _Abstracts of the 2019 AGU Fall Meeting_, December 2019, San Francisco, California.
+    
+    **[The Cuizinart: Slice and Dice Your Environmental Datasets](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/563285)** \\
+    Jimmy Lin, Martin Gauch, Yixin Wang, Alexander Weatherhead, Kaisong Huang, Bhaleka D. Persaud, and Juliane Mai. \\
+    _Abstracts of the 2019 AGU Fall Meeting_, December 2019, San Francisco, California.
     
     **[Data-Driven vs. Physically-Based Streamflow Prediction Models](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_CI2019.pdf)** \\
-    Martin Gauch, Juliane Mai, Shervan Gharari, Jimmy Lin \\
-    _Proceedings of the 9th International Workshop on Climate Informatics_, October 2019, Paris, France
+    Martin Gauch, Juliane Mai, Shervan Gharari, and Jimmy Lin. \\
+    _Proceedings of the 9th International Workshop on Climate Informatics_, October 2019, Paris, France.
 - layout: left
   name: 2018
   #link: 
@@ -18,5 +30,5 @@
   #quote:
   description: | # this will include new lines to allow paragraphs
     **[Towards Simulation-Data Science&mdash;A Case Study on Material Failures](https://ieeexplore.ieee.org/abstract/document/8631397)** \\
-    Holger Trittenbach, Martin Gauch, Klemens Böhm, Katrin Schulz \\
-    _2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)_, October 2018, Turin, Italy
+    Holger Trittenbach, Martin Gauch, Klemens Böhm, and Katrin Schulz. \\
+    _2018 IEEE 5th International Conference on Data Science and Advanced Analytics_, October 2018, Turin, Italy.
