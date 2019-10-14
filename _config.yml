@@ -22,14 +22,14 @@ github_username:  gauchm
 # googleplus_username:
 
 # About Section
-# about_title: About Me
+about_title: 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Martin. I'm a Master's student in computer science at the [University of Waterloo](https://uwaterloo.ca).
   Before studying in Waterloo, I was an undergraduate and graduate computer science student at [Karlsruhe Institute of Technology](https://kit.edu) in Germany.
   
   My research is on machine learning in hydrology. In particular, we focus on developing data-driven techniques, both neural and non-neural, for streamflow prediction.
-  We work in collaboration with hydrologists in Canada's [Global Water Futures](https://gwf.usask.ca/) program.
+  We work in collaboration with hydrologists in the Canadian [Global Water Futures](https://gwf.usask.ca/) program.
   My supervisor is [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 
 # Projects Section

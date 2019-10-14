@@ -1,6 +1,6 @@
 - layout: left
   company: SAP SuccessFactors
-  link: successfactors.com
+  link: https://successfactors.com
   job_title: Working student, software engineering
   dates: August 2014 &ndash; July 2018
   #quote: 
@@ -11,7 +11,7 @@
     
 - layout: left
   company: SAP SE
-  link: sap.com
+  link: https://sap.com
   job_title: Working student, software engineering
   dates: May 2014 &ndash; July 2014
   #quote: 
