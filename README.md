@@ -1,6 +1,6 @@
 # Website
 
-This website uses the theme from https://github.com/sproogen/modern-resume-theme.
+This website uses the theme from https://github.com/gauchm/modern-resume-theme (which is a fork of https://github.com/sproogen/modern-resume-theme).
 
 ## Running locally
 
