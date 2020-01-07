@@ -4,7 +4,7 @@
   #github: sproogen/resume-theme
   #quote:
   description: | # this will include new lines to allow paragraphs
-    **Streamflow Prediction with Limited Spatially-Distributed Input Data** \\
+    **[Streamflow Prediction with Limited Spatially-Distributed Input Data](https://www.climatechange.ai/CameraReadySubmissions%202-119/16/CameraReadySubmission/NeurIPS_2019_Climate_Change_AI_Workshop.pdf)** \\
     Martin Gauch, Shervan Gharari, Juliane Mai, and Jimmy Lin. \\
     _Proceedings of the NeurIPS 2019 Workshop on Tackling Climate Change with Machine Learning_, December 2019, Vancouver, British Columbia, Canada.
     
