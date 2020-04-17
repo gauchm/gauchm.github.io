@@ -1,14 +1,12 @@
 - layout: left
   name: University of Waterloo
-  dates: September 2018 &ndash; present
+  dates: September 2018 &ndash; April 2020
   qualification: Computer Science <br/> (Master's student)
   # quote: 
   description: | # this will include new lines to allow paragraphs
     Supervised by Jimmy Lin, my research is on machine learning in hydrology. \\
     I develop neural and non-neural machine learning algorithms to predict streamflow from spatially and temporally distributed input data.
     A large part of this work is in collaboration with environmental scientists.
-    
-    Expected graduation: May 2020
 
 - layout: left
   name: Karlsruhe Institute of Technology

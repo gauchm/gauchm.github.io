@@ -1,4 +1,13 @@
 - layout: left
+  name: 2020
+  #link: 
+  #github: sproogen/resume-theme
+  #quote:
+  description: | # this will include new lines to allow paragraphs
+    **[Machine Learning for Streamflow Prediction](https://hdl.handle.net/10012/15758)** \\
+    Martin Gauch. \\
+    _Master's Thesis_, April 2020, Waterloo, Ontario, Canada.
+- layout: left
   name: 2019
   #link: 
   #github: sproogen/resume-theme
