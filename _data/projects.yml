@@ -4,6 +4,10 @@
   #github: sproogen/resume-theme
   #quote:
   description: | # this will include new lines to allow paragraphs
+    **[An Open-Source Interface to the Canadian Surface Prediction Archive](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_JCDL2020.pdf)** \\
+    Martin Gauch, James Bai, Juliane Mai, and Jimmy Lin. \\
+    _Proceedings of the 20th ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL 2020)_, August 2020, Virtual Event.
+    
     **[Machine Learning for Streamflow Prediction](https://hdl.handle.net/10012/15758)** \\
     Martin Gauch. \\
     _Master's Thesis_, April 2020, Waterloo, Ontario, Canada.

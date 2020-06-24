@@ -4,9 +4,9 @@
   qualification: Computer Science <br/> (Master's student)
   # quote: 
   description: | # this will include new lines to allow paragraphs
-    Supervised by Jimmy Lin, my research is on machine learning in hydrology. \\
-    I develop neural and non-neural machine learning algorithms to predict streamflow from spatially and temporally distributed input data.
-    A large part of this work is in collaboration with environmental scientists.
+    Supervised by Jimmy Lin, my research was on machine learning in hydrology. \\
+    I developed neural and non-neural machine learning algorithms to predict streamflow from spatially and temporally distributed input data.
+    A large part of this work was in collaboration with environmental scientists.
 
 - layout: left
   name: Karlsruhe Institute of Technology

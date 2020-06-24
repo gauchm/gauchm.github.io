@@ -1,12 +1,22 @@
 - layout: left
+  company: University of Waterloo
+  link: https://uwaterloo.ca
+  job_title: Research Associate
+  dates: May 2020 &ndash; present
+  #quote: 
+  description: | # this will include new lines to allow paragraphs
+    I develop neural and non-neural machine learning algorithms to predict streamflow from spatially and temporally distributed input data. A large part of this work is in collaboration with environmental scientists.
+    Besides, we work with domain specialists from the environmental sciences on developing the [Cuizinart](https://tuna.cs.uwaterloo.ca/cuizinart), a cloud-based interactive platform that allows researchers to "slice and dice" large environmental datasets.
+
+- layout: left
   company: Data Systems Lab, University of Waterloo
   link: https://cs.uwaterloo.ca
   job_title: Graduate Research Assistant
-  dates: January 2019 &ndash; present
+  dates: January 2019 &ndash; April 2020
   #quote: 
   description: | # this will include new lines to allow paragraphs
-    Besides my main research focus during my graduate studies, I work as a graduate research assistant. Together with domain specialists from the environmental sciences, we're developing the [Cuizinart](https://tuna.cs.uwaterloo.ca/cuizinart), a cloud-based interactive platform that allows researchers to "slice and dice" large environmental datasets.
-    Also, we work on solutions for metadata management in the [Global Water Futures](https://gwf.usask.ca/) program.
+    Besides my main research focus on machine learning during my graduate studies, I worked as a graduate research assistant. In collaboration with domain specialists from the environmental sciences, we developed the cloud-based [Cuizinart](https://tuna.cs.uwaterloo.ca/cuizinart) platform that provides access to large environmental datasets. 
+    Also, we worked on solutions for metadata management in the [Global Water Futures](https://gwf.usask.ca/) program.
     
 - layout: left
   company: SAP SuccessFactors
