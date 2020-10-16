@@ -4,6 +4,10 @@
   #github: sproogen/resume-theme
   #quote:
   description: | # this will include new lines to allow paragraphs
+    **[Rainfall&ndash;Runoff Prediction at Multiple Timescales with a Single Long Short-Term Memory Network](https://arxiv.org/abs/2010.07921)** \\
+    Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Jimmy Lin, and Sepp Hochreiter. \\
+    _arXiv:2010.07921_, October 2020.
+    
     **[A Data Scientist's Guide to Streamflow Prediction](https://arxiv.org/abs/2006.12975)** \\
     Martin Gauch and Jimmy Lin. \\
     _arXiv:2006.12975_, June 2020.
