@@ -26,12 +26,12 @@ github_username:  gauchm
 about_title: 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Martin. I'm a Research Associate in computer science and earth sciences at the [University of Waterloo](https://uwaterloo.ca).
-  Previously, I was an undergraduate computer science student at [Karlsruhe Institute of Technology](https://kit.edu) and a graduate computer science student at Karlsruhe Institute of Technology and the University of Waterloo.
+  Hi, I'm Martin. I'm a Research Associate in computer science and earth sciences at the [University of Waterloo](https://uwaterloo.ca), Canada.
+  In January 2021, I'll officially start my PhD at the [Institute for Machine Learning](https://jku.at/iml) at Johannes Kepler University, Linz, Austria in the team of Sepp Hochreiter.
+  Previously, I was a graduate computer science student at [Karlsruhe Institute of Technology](https://kit.edu) and the University of Waterloo and an undergraduate at Karlsruhe Institute of Technology.
   
-  My research is at the intersection of machine learning and hydrology. We focus on developing data-driven techniques for streamflow prediction, both neural and non-neural models.
-  We work in collaboration with hydrologists as part of the Canadian [Global Water Futures](https://gwf.usask.ca/) program.
-  My supervisor is [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
+  My research is at the intersection of machine learning and hydrology. We focus on developing data-driven deep learning techniques for streamflow prediction.
+  I work in collaboration with hydrologists as part of the Canadian [Global Water Futures](https://gwf.usask.ca/) program.
 
 # Projects Section
 projects_title: Publications

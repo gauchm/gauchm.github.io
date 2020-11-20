@@ -1,4 +1,12 @@
 - layout: left
+  name: 2021
+  description: |
+    **[The Proper Care and Feeding of CAMELS: How Limited Training Data Affects Streamflow Prediction](https://www.sciencedirect.com/science/article/pii/S136481522030983X)** \\
+    [(open-access version published on arXiv, November 2019)](https://arxiv.org/abs/1911.07249) \\
+    Martin Gauch, Juliane Mai, and Jimmy Lin. \\
+    _Environmental Modelling & Software_, Volume 135, 2021, 104926, ISSN 1364-8152.
+
+- layout: left
   name: 2020
   #link: 
   #github: sproogen/resume-theme
@@ -19,6 +27,7 @@
     **[Machine Learning for Streamflow Prediction](https://hdl.handle.net/10012/15758)** \\
     Martin Gauch. \\
     _Master's Thesis_, April 2020, Waterloo, Ontario, Canada.
+
 - layout: left
   name: 2019
   #link: 
@@ -42,12 +51,14 @@
     _Abstracts of the 2019 AGU Fall Meeting_, December 2019, San Francisco, California.
     
     **[The Proper Care and Feeding of CAMELS: How Limited Training Data Affects Streamflow Prediction](https://arxiv.org/abs/1911.07249)** \\
+    [(now published in _Environmental Modelling & Software_, Volume 135, 2021)](https://www.sciencedirect.com/science/article/pii/S136481522030983X) \\
     Martin Gauch, Juliane Mai, and Jimmy Lin. \\
     _arXiv:1911.07249_, November 2019.
     
     **[Data-Driven vs. Physically-Based Streamflow Prediction Models](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_CI2019.pdf)** \\
     Martin Gauch, Juliane Mai, Shervan Gharari, and Jimmy Lin. \\
     _Proceedings of the 9th International Workshop on Climate Informatics_, October 2019, Paris, France.
+
 - layout: left
   name: 2018
   #link: 
