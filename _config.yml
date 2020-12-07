@@ -30,8 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   In January 2021, I'll officially start my PhD at the [Institute for Machine Learning](https://jku.at/iml) at Johannes Kepler University, Linz, Austria in the team of Sepp Hochreiter.
   Previously, I was a graduate computer science student at [Karlsruhe Institute of Technology](https://kit.edu) and the University of Waterloo and an undergraduate at Karlsruhe Institute of Technology.
   
-  My research is at the intersection of machine learning and hydrology. We focus on developing data-driven deep learning techniques for streamflow prediction.
-  I work in collaboration with hydrologists as part of the Canadian [Global Water Futures](https://gwf.usask.ca/) program.
+  My research is at the intersection of machine learning and hydrology. We focus on developing data-driven deep learning techniques for streamflow prediction. Visit our research blog at [neuralhydrology.github.io](https://neuralhydrology.github.io/) for more information on current and recent projects.
 
 # Projects Section
 projects_title: Publications
