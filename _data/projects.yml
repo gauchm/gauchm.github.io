@@ -12,9 +12,9 @@
   #github: sproogen/resume-theme
   #quote:
   description: | # this will include new lines to allow paragraphs
-    **[A Machine Learner's Guide to Streamflow Prediction](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_18.pdf)** \\
+    **[A Machine Learner's Guide to Streamflow Prediction](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_NeurIPS2020workshop.pdf)** (revised version of June 2020 arXiv paper) \\
     Martin Gauch, Daniel Klotz, Frederik Kratzert, Grey Nearing, Sepp Hochreiter, and Jimmy Lin. \\
-    _Proceedings of the NeurIPS 2020 Workshop on AI for Earth Sciences_, December 2020.
+    _NeurIPS 2020 Workshop on AI for Earth Sciences_, December 2020.
 
     **[Rainfall&ndash;Runoff Prediction at Multiple Timescales with a Single Long Short-Term Memory Network](https://doi.org/10.5194/hess-2020-540)** \\
     Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Jimmy Lin, and Sepp Hochreiter. \\
