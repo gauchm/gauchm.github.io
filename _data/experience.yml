@@ -2,11 +2,11 @@
   company: University of Waterloo
   link: https://uwaterloo.ca
   job_title: Research Associate
-  dates: May 2020 &ndash; present
+  dates: May 2020 &ndash; December 2020
   #quote: 
   description: | # this will include new lines to allow paragraphs
-    I develop neural and non-neural machine learning algorithms to predict streamflow from spatially and temporally distributed input data. A large part of this work is in collaboration with environmental scientists.
-    Besides, we work with domain specialists from the environmental sciences on developing the [Cuizinart](https://tuna.cs.uwaterloo.ca/cuizinart), a cloud-based interactive platform that allows researchers to "slice and dice" large environmental datasets.
+    I developed neural and non-neural machine learning algorithms to predict streamflow from spatially and temporally distributed input data. A large part of this work was in collaboration with environmental scientists.
+    Besides, we worked with domain specialists from the environmental sciences on developing the [Cuizinart](https://tuna.cs.uwaterloo.ca/), a cloud-based interactive platform that allows researchers to "slice and dice" large environmental datasets.
 
 - layout: left
   company: Data Systems Lab, University of Waterloo
