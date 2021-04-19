@@ -1,6 +1,10 @@
 - layout: left
   name: 2021
   description: |
+    **[Rainfall&ndash;Runoff P  rediction at Multiple Timescales with a Single Long Short-Term Memory Network](https://doi.org/10.5194/hess-25-2045-2021)** \\
+    Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Jimmy Lin, and Sepp Hochreiter. \\
+    _Hydrology and Earth System Sciences_, April 2021 (preprint published October 2020).
+
     **[The Proper Care and Feeding of CAMELS: How Limited Training Data Affects Streamflow Prediction](https://www.sciencedirect.com/science/article/pii/S136481522030983X)** \\
     [(open-access version published on arXiv, November 2019)](https://arxiv.org/abs/1911.07249) \\
     Martin Gauch, Juliane Mai, and Jimmy Lin. \\
@@ -15,10 +19,6 @@
     **[A Machine Learner's Guide to Streamflow Prediction](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_NeurIPS2020workshop.pdf)** (revised version of June 2020 arXiv paper) \\
     Martin Gauch, Daniel Klotz, Frederik Kratzert, Grey Nearing, Sepp Hochreiter, and Jimmy Lin. \\
     _NeurIPS 2020 Workshop on AI for Earth Sciences_, December 2020.
-
-    **[Rainfall&ndash;Runoff Prediction at Multiple Timescales with a Single Long Short-Term Memory Network](https://doi.org/10.5194/hess-2020-540)** \\
-    Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Jimmy Lin, and Sepp Hochreiter. \\
-    _Hydrology and Earth System Sciences Discussions_, in review, October 2020.
     
     **[A Data Scientist's Guide to Streamflow Prediction](https://arxiv.org/abs/2006.12975)** \\
     Martin Gauch and Jimmy Lin. \\
