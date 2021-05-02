@@ -1,7 +1,11 @@
 - layout: left
   name: 2021
   description: |
-    **[Rainfall&ndash;Runoff P  rediction at Multiple Timescales with a Single Long Short-Term Memory Network](https://doi.org/10.5194/hess-25-2045-2021)** \\
+    **[Multi-Timescale LSTM for Rainfall&ndash;Runoff Forecasting](https://doi.org/10.5194/egusphere-egu21-9714)** \\
+    Martin Gauch, Frederik Kratzert, Grey Nearing, Jimmy Lin, Sepp Hochreiter, Johannes Brandstetter, and Daniel Klotz. \\
+    _EGU General Assembly_, April 2021, virtual event.
+
+    **[Rainfall&ndash;Runoff Prediction at Multiple Timescales with a Single Long Short-Term Memory Network](https://doi.org/10.5194/hess-25-2045-2021)** \\
     Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Jimmy Lin, and Sepp Hochreiter. \\
     _Hydrology and Earth System Sciences_, April 2021 (preprint published October 2020).
 
@@ -26,7 +30,7 @@
     
     **[An Open-Source Interface to the Canadian Surface Prediction Archive](https://cs.uwaterloo.ca/~jimmylin/publications/Gauch_etal_JCDL2020.pdf)** \\
     Martin Gauch, James Bai, Juliane Mai, and Jimmy Lin. \\
-    _Proceedings of the 20th ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL 2020)_, August 2020, Virtual Event.
+    _Proceedings of the 20th ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL 2020)_, August 2020, virtual event.
     
     **[Machine Learning for Streamflow Prediction](https://hdl.handle.net/10012/15758)** \\
     Martin Gauch. \\
