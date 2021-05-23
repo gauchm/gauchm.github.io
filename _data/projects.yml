@@ -1,6 +1,10 @@
 - layout: left
   name: 2021
   description: |
+    **[Niederschlags-Abfluss-Modellierung mit Long Short-Term Memory (LSTM)](https://doi.org/10.1007/s00506-021-00767-z)** (German article) \\
+    Frederik Kratzert, Martin Gauch, Grey Nearing, Sepp Hochreiter, and Daniel Klotz. \\
+    _Österreichische Wasser- und Abfallwirtschaft_, May 2021.
+
     **[Multi-Timescale LSTM for Rainfall&ndash;Runoff Forecasting](https://doi.org/10.5194/egusphere-egu21-9714)** \\
     Martin Gauch, Frederik Kratzert, Grey Nearing, Jimmy Lin, Sepp Hochreiter, Johannes Brandstetter, and Daniel Klotz. \\
     _EGU General Assembly_, April 2021, virtual event.
