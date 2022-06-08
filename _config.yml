@@ -78,6 +78,10 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          **[Few-Shot Learning by Dimensionality Reduction in Gradient Space](https://arxiv.org/abs/2206.03483)** \\
+          Martin Gauch, Maximilian Beck, Thomas Adler, Dmytro Kotsur, Stefan Fiel, Hamid Eghbal-zadeh, Johannes Brandstetter, Johannes Kofler, Markus Holzleitner, Werner Zellinger, Daniel Klotz, Sepp Hochreiter, and Sebastian Lehner. \\
+          _arXiv:2206.03483_, June 2022. Accepted at Conference on Lifelong Learning Agents (CoLLAs) 2022.
+
           **[The Great Lakes Runoff Intercomparison Project Phase 4: The Great Lakes (GRIP-GL)](https://doi.org/10.5194/hess-2022-113)** \\
           Juliane Mai, Hongren Shen, Bryan Tolson, Étienne Gaborit, Richard Arsenault, James R. Craig, Vincent Fortin, Lauren M. Fry, Martin Gauch, Daniel Klotz, Frederik Kratzert, Nicole O'Brien, Daniel G. Princz, Sinan Rasiya Koya, Tirthankar Roy, Frank Seglenieks, Narayan K. Shrestha, André G. T. Temgoua, Vincent Vionnet, and Jonathan W. Waddell. \\
           _Hydrol. Earth Syst. Sci. Discuss. (preprint)_, March 2022.
