@@ -203,6 +203,15 @@ content:
     layout: list
     content:
       - layout: left
+        title: Google Research
+        link: research.google
+        sub_title: Student Researcher
+        caption: August 2022 &ndash; ongoing
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+          I contribute to [Google's Flood Forecasting efforts](https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/) in the hydrologic modeling team, where we build Deep Learning streamflow prediction models that integrate into an operational end-to-end flood warning system.
+          
+      - layout: left
         title: University of Waterloo
         sub_title: Research Associate
         caption: May 2020 &ndash; December 2020
