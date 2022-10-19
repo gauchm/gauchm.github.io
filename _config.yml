@@ -78,6 +78,10 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          **[In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance](https://eartharxiv.org/repository/view/4586/)** \\
+          Martin Gauch, Frederik Kratzert, Oren Gilon, Hoshin Gupta, Juliane Mai, Grey Nearing, Bryan Tolson, Sepp Hochreiter, and Daniel Klotz. \\
+          _EarthArXiv_, October 2022 (in review).
+          
           **[Few-Shot Learning by Dimensionality Reduction in Gradient Space](https://arxiv.org/abs/2206.03483)** \\
           Martin Gauch, Maximilian Beck, Thomas Adler, Dmytro Kotsur, Stefan Fiel, Hamid Eghbal-zadeh, Johannes Brandstetter, Johannes Kofler, Markus Holzleitner, Werner Zellinger, Daniel Klotz, Sepp Hochreiter, and Sebastian Lehner. \\
           _arXiv:2206.03483_, June 2022. Accepted at Conference on Lifelong Learning Agents (CoLLAs) 2022.
