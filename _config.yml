@@ -20,6 +20,8 @@ darkmode: false
 
 # Social links
 twitter_username: martingauch
+mastodon_username: "@gauchm"
+mastodon_servername: sigmoid.social
 github_username:  gauchm
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
