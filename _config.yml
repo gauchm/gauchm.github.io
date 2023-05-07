@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: "2022"
+        title: "2023"
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
@@ -79,6 +79,14 @@ content:
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # quote: >
         #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          **[Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/abs/2303.12783)** \\
+          Andreas Auer, Martin Gauch, Daniel Klotz, and Sepp Hochreiter. \\
+          _arXiv:2303.12783_, March 2023.
+
+      - layout: left
+        border: weak
+        title: "2022"
         description: | # this will include new lines to allow paragraphs
           **[In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance](https://eartharxiv.org/repository/view/4586/)** \\
           Martin Gauch, Frederik Kratzert, Oren Gilon, Hoshin Gupta, Juliane Mai, Grey Nearing, Bryan Tolson, Sepp Hochreiter, and Daniel Klotz. \\
