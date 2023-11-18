@@ -218,8 +218,8 @@ content:
       - layout: left
         title: Google Research
         link: research.google
-        sub_title: Student Researcher (2022 - 2023) / Visiting Researcher (2023 &ndash; ongoing)
-        caption: August 2022 &ndash; ongoing
+        sub_title: Student Researcher (2022 - 2023) / Visiting Researcher (ongoing)
+        # caption: August 2022 &ndash; ongoing
         #quote: 
         description: | # this will include new lines to allow paragraphs
           I contribute to [Google's Flood Forecasting efforts](https://sites.research.google/floodforecasting/) in the hydrologic modeling team, where we build Deep Learning streamflow prediction models that integrate into an operational end-to-end flood warning system. You can see the system in action at [g.co/floodhub](https://g.co/floodhub).
