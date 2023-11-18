@@ -13,7 +13,7 @@ email: "&#103;&#97;&#117;&#99;&#104;&#64;&#109;&#108;&#46;&#106;&#107;&#117;&#46
 # phone_title: Phone (Phone title override)
 # website: gauchm.github.io
 # website_title: Web (Website title override)
-description: PhD Student, Johannes Kepler University, Linz, Austria
+description: Researcher at Google
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,8 +54,7 @@ googlescholar_username: iVbyiMcAAAAJ
 about_title: 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Martin. I'm a PhD student in computer science at the [Institute for Machine Learning](https://www.jku.at/en/institute-for-machine-learning/) at Johannes Kepler University, Linz, Austria, in the team of Sepp Hochreiter.
-  Previously, I was a research associate and a graduate computer science student at the [University of Waterloo](https://uwaterloo.ca), Canada and a graduate and undergraduate student at [Karlsruhe Institute of Technology](https://kit.edu), Germany.
+  Hi, I'm Martin. I work at on the [Flood Forecasting Initiative at Google Research](https://sites.research.google/floodforecasting/) in Switzerland. Previously, I was a PhD student in computer science in Sepp Hochreiter's group at Johannes Kepler University, Linz, Austria, a graduate computer science student at the [University of Waterloo](https://uwaterloo.ca), Canada, and an undergraduate student at [Karlsruhe Institute of Technology](https://kit.edu), Germany.
   
   My research is at the intersection of machine learning and hydrology. We focus on developing data-driven deep learning techniques for streamflow prediction. Visit our research blog at [neuralhydrology.github.io](https://neuralhydrology.github.io/) for more information on current and recent projects.
 
@@ -187,13 +186,13 @@ content:
       - layout: left
         title: Johannes Kepler University Linz
         sub_title: Machine Learning <br/> (PhD student)
-        caption: January 2021 &ndash; ongoing
+        caption: January 2021 &ndash; July 2023
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          At the Institute for Machine Learning, I research at the intersection of machine learning and hydrology under the supervision of Sepp Hochreiter.
-          We focus on developing data-driven deep learning techniques for environmental modeling.
-          Visit our research blog at [neuralhydrology.github.io](https://neuralhydrology.github.io/) for more information on current and recent projects.
+          At the Institute for Machine Learning, my research was at the intersection of machine learning and hydrology under the supervision of Sepp Hochreiter.
+          We have developed data-driven deep learning techniques for environmental modeling.
+          Visit our research blog at [neuralhydrology.github.io](https://neuralhydrology.github.io/) for more information on recent projects.
       - layout: left
         title: University of Waterloo & Karlsruhe Institute of Technology
         sub_title: Computer Science <br/> (Master's student)
@@ -219,11 +218,11 @@ content:
       - layout: left
         title: Google Research
         link: research.google
-        sub_title: Student Researcher
-        caption: August 2022 &ndash; June 2023
+        sub_title: Student Researcher (2022 - 2023) / Visiting Researcher (2023 &ndash; ongoing)
+        caption: August 2022 &ndash; ongoing
         #quote: 
         description: | # this will include new lines to allow paragraphs
-          I contributed to [Google's Flood Forecasting efforts](https://sites.research.google/floodforecasting/) in the hydrologic modeling team, where we build Deep Learning streamflow prediction models that integrate into an operational end-to-end flood warning system. You can see the system in action at [g.co/floodhub](https://g.co/floodhub).
+          I contribute to [Google's Flood Forecasting efforts](https://sites.research.google/floodforecasting/) in the hydrologic modeling team, where we build Deep Learning streamflow prediction models that integrate into an operational end-to-end flood warning system. You can see the system in action at [g.co/floodhub](https://g.co/floodhub).
           
       - layout: left
         title: University of Waterloo
