@@ -54,7 +54,7 @@ googlescholar_username: iVbyiMcAAAAJ
 about_title: 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Martin. I work at on the [Flood Forecasting Initiative at Google Research](https://sites.research.google/floodforecasting/) in Switzerland. Previously, I was a PhD student in computer science in Sepp Hochreiter's group at Johannes Kepler University, Linz, Austria, a graduate computer science student at the [University of Waterloo](https://uwaterloo.ca), Canada, and an undergraduate student at [Karlsruhe Institute of Technology](https://kit.edu), Germany.
+  Hi, I'm Martin. I work on the [Flood Forecasting Initiative at Google Research](https://sites.research.google/floodforecasting/) in Switzerland. Previously, I was a PhD student in Sepp Hochreiter's group at Johannes Kepler University, Linz, Austria, a graduate computer science student at the [University of Waterloo](https://uwaterloo.ca), Canada, and an undergraduate student at [Karlsruhe Institute of Technology](https://kit.edu), Germany.
   
   My research is at the intersection of machine learning and hydrology. We focus on developing data-driven deep learning techniques for streamflow prediction. Visit our research blog at [neuralhydrology.github.io](https://neuralhydrology.github.io/) for more information on current and recent projects.
 
