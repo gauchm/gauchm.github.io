@@ -79,6 +79,10 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          **[HESS Opinions: Never train a Long Short-Term Memory (LSTM) network on a single basin](https://doi.org/10.5194/hess-28-4187-2024)** \\
+          Frederik Kratzert, Martin Gauch, Daniel Klotz, and Grey Nearing. \\
+          _Hydrology and Earth System Sciences_, 2024.
+
           **[Global Prediction of Extreme Floods in Ungauged Watersheds](https://www.nature.com/articles/s41586-024-07145-1)** \\
           Grey Nearing, Deborah Cohen, Vusumuzi Dube, Martin Gauch, Oren Gilon, Shaun Harrigan, Avinatan Hassidim, Daniel Klotz, Frederik Kratzert, Asher Metzger, Sella Nevo, Florian Pappenberger, Christel Prudhomme, Guy Shalev, Shlomo Shenzis, Tadele Tekalign, Dana Weitzner, and Yossi Matias. \\
           _Nature_, March 2024.
@@ -99,13 +103,13 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          **[Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/abs/2303.12783)** \\
+          Andreas Auer, Martin Gauch, Daniel Klotz, and Sepp Hochreiter. \\
+          _Advances in Neural Information Processing Systems_, December 2023.
+
           **[In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance](https://doi.org/10.1029/2022WR033918)** \\
           Martin Gauch, Frederik Kratzert, Oren Gilon, Hoshin Gupta, Juliane Mai, Grey Nearing, Bryan Tolson, Sepp Hochreiter, and Daniel Klotz. \\
           _Water Resources Research_, May 2023.
-          
-          **[Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/abs/2303.12783)** \\
-          Andreas Auer, Martin Gauch, Daniel Klotz, and Sepp Hochreiter. \\
-          _arXiv:2303.12783_, March 2023.
 
       - layout: left
         border: weak
