@@ -19,8 +19,8 @@ description: Researcher at Google
 darkmode: false
 
 # Social links
-#twitter_username: martingauch
-bluesky_username: gauchm
+# twitter_username: martingauch
+bluesky_username: gauchm.bsky.social
 mastodon_username: gauchm
 mastodon_servername: sigmoid.social
 github_username:  gauchm
