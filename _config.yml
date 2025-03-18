@@ -65,6 +65,14 @@ content:
     description: For a full list of publications, refer to my [Google Scholar profile](https://scholar.google.com/citations?user=iVbyiMcAAAAJ).
     content:
       - layout: left
+        border: weak
+        title: "2025"
+        description: | # this will include new lines to allow paragraphs
+          **[How to deal w___ missing input data](https://eartharxiv.org/repository/view/8759/)** \\
+          Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Deborah Cohen, and Oren Gilon. \\
+          _EarthArXiv preprint_, March 2025.
+
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: "2024"
