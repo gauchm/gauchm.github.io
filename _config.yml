@@ -68,9 +68,9 @@ content:
         border: weak
         title: "2025"
         description: | # this will include new lines to allow paragraphs
-          **[How to deal w___ missing input data](https://eartharxiv.org/repository/view/8759/)** \\
+          **[How to deal w___ missing input data](https://doi.org/10.5194/egusphere-2025-1224)** \\
           Martin Gauch, Frederik Kratzert, Daniel Klotz, Grey Nearing, Deborah Cohen, and Oren Gilon. \\
-          _EarthArXiv preprint_, March 2025.
+          _EGUsphere preprint_, March 2025.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
