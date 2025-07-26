@@ -21,15 +21,15 @@ darkmode: false
 # Social links
 # twitter_username: martingauch
 bluesky_username: gauchm.bsky.social
-mastodon_username: gauchm
-mastodon_servername: sigmoid.social
+# mastodon_username: gauchm
+# mastodon_servername: sigmoid.social
 github_username:  gauchm
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: martin-gauch-ab301a36a
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
